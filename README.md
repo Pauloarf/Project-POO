@@ -32,8 +32,9 @@ The primary objective of this project is to apply **Object-Oriented Programming 
 - **Enhanced Scheduling**: Introduce more flexible scheduling options for training plans.
 
 ## 👨‍💻 Contributors
-- **Your Name** - Lead Developer, System Architecture, Training Plan Implementation
-- **Collaborator Name** - Performance Optimization, Data Persistence
+- **Paulo Alexandre Rodrigues Ferreira**
+- **Alex Araújo Sá** - [Alex Sá](https://github.com/alexaraujosa)
+- **Rafael Santos Fernandes** - [DarkenLM](https://github.com/DarkenLM)
 
 ## 🛠️ Technologies Used
 - **Programming Language**: Java
